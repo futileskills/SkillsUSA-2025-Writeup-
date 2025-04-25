@@ -1,5 +1,4 @@
 # SkillsUSA-2025-Writeup-
-Write up for the 2025 SkillsUSA Cyber Security competition
 
 SkillsUSA Cybersecurity State Competition – Event Breakdown & Insights  
 
